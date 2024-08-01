@@ -1,4 +1,6 @@
-# ADTHeightDump
+# This project is deprecated use [ADTMeta](https://github.com/Luzifix/ADTMeta) insted!
+
+# Deprecated: ADTHeightDump
 Automatically dumps tileset metadata from World of Warcraft ADT files into a JSON file and saves it to the [Output](Output) folder.
 
 ## Generated Metadata
